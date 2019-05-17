@@ -1,0 +1,12 @@
+/Users/roman/Projects/currencyconverter/currencyconverter/bin/Debug/currencyconverter.dll
+/Users/roman/Projects/currencyconverter/currencyconverter/bin/Debug/currencyconverter.pdb
+/Users/roman/Projects/currencyconverter/currencyconverter/obj/Debug/currencyconverter.csprojAssemblyReference.cache
+/Users/roman/Projects/currencyconverter/currencyconverter/obj/Debug/currencyconverter.csproj.CoreCompileInputs.cache
+/Users/roman/Projects/currencyconverter/currencyconverter/obj/Debug/currencyconverter.dll
+/Users/roman/Projects/currencyconverter/currencyconverter/obj/Debug/currencyconverter.pdb
+D:\Загрузки\currencyconverter\currencyconverter\currencyconverter\bin\Debug\currencyconverter.dll
+D:\Загрузки\currencyconverter\currencyconverter\currencyconverter\bin\Debug\currencyconverter.pdb
+D:\Загрузки\currencyconverter\currencyconverter\currencyconverter\obj\Debug\currencyconverter.csproj.CoreCompileInputs.cache
+D:\Загрузки\currencyconverter\currencyconverter\currencyconverter\obj\Debug\currencyconverter.dll
+D:\Загрузки\currencyconverter\currencyconverter\currencyconverter\obj\Debug\currencyconverter.pdb
+D:\Загрузки\currencyconverter\currencyconverter\currencyconverter\obj\Debug\currencyconverter.csprojAssemblyReference.cache
